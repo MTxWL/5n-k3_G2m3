@@ -9,7 +9,7 @@ Use your keybords to move the snake: up, left, right, and down. Points are added
 
 Requirements: Vanilla Js, CSS3, HTML5.
 
-[LIVE VERSION](https://mtrawinska.pythonanywhere.com/)
+[LIVE VERSION](https://mtxwl.github.io/5n-k3_G2m3/PageSnake/)
 
 Screenshots:
 
